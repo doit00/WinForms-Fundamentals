@@ -1,0 +1,10 @@
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\bin\Debug\15WinFormsBasics.exe.config
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\bin\Debug\15WinFormsBasics.exe
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\bin\Debug\15WinFormsBasics.pdb
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\15WinFormsBasics.csprojResolveAssemblyReference.cache
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\_15WinFormsBasics.Form1.resources
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\_15WinFormsBasics.Properties.Resources.resources
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\15WinFormsBasics.csproj.GenerateResource.cache
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\15WinFormsBasics.csproj.CoreCompileInputs.cache
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\15WinFormsBasics.exe
+C:\git\commandLine\02BasicSyntax\15WinFormsBasics\obj\Debug\15WinFormsBasics.pdb
