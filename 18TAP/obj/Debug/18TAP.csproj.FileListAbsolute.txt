@@ -1,0 +1,10 @@
+C:\git\WinForms-Fundamentals\18TAP\bin\Debug\18TAP.exe.config
+C:\git\WinForms-Fundamentals\18TAP\bin\Debug\18TAP.exe
+C:\git\WinForms-Fundamentals\18TAP\bin\Debug\18TAP.pdb
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\_18TAP.Form1.resources
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\_18TAP.Properties.Resources.resources
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\18TAP.csproj.GenerateResource.cache
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\18TAP.csproj.CoreCompileInputs.cache
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\18TAP.exe
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\18TAP.pdb
+C:\git\WinForms-Fundamentals\18TAP\obj\Debug\18TAP.csprojResolveAssemblyReference.cache

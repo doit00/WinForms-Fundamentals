@@ -91,5 +91,15 @@ namespace Demos
         {
             this.Close();
         }
+
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            aboutToolStripMenuItem_Click(sender, e);
+        }
+
+        private void closeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

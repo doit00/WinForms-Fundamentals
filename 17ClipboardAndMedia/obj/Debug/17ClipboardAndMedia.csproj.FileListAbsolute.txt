@@ -1,0 +1,9 @@
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\bin\Debug\17ClipboardAndMedia.exe
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\bin\Debug\17ClipboardAndMedia.pdb
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\17ClipboardAndMedia.csprojResolveAssemblyReference.cache
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\_17ClipboardAndMedia.Properties.Resources.resources
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\17ClipboardAndMedia.csproj.GenerateResource.cache
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\17ClipboardAndMedia.csproj.CoreCompileInputs.cache
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\17ClipboardAndMedia.exe
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\17ClipboardAndMedia.pdb
+C:\git\WinForms-Fundamentals\17ClipboardAndMedia\obj\Debug\Demos.Form1.resources

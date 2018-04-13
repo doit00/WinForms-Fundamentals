@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15BasicContols", "15BasicLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16FileEditor", "16FileEditor\16FileEditor.csproj", "{EE568679-7D95-4859-B451-0CCF370BC60D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17ClipboardAndMedia", "17ClipboardAndMedia\17ClipboardAndMedia.csproj", "{890433AE-A4E9-41D3-AB81-0EF5D823640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18TAP", "18TAP\18TAP.csproj", "{3F0EE025-531F-44BC-AA5C-AD7AA4DC4596}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EE568679-7D95-4859-B451-0CCF370BC60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE568679-7D95-4859-B451-0CCF370BC60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE568679-7D95-4859-B451-0CCF370BC60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890433AE-A4E9-41D3-AB81-0EF5D823640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890433AE-A4E9-41D3-AB81-0EF5D823640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890433AE-A4E9-41D3-AB81-0EF5D823640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890433AE-A4E9-41D3-AB81-0EF5D823640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0EE025-531F-44BC-AA5C-AD7AA4DC4596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0EE025-531F-44BC-AA5C-AD7AA4DC4596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0EE025-531F-44BC-AA5C-AD7AA4DC4596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0EE025-531F-44BC-AA5C-AD7AA4DC4596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
